@@ -21,3 +21,24 @@
     font-size: 2em;
     font-weight: bold;
 }
+
+.contentOne {
+    color: black;
+    text-align: center;
+    width: 25%;
+    margin-left: 50px;
+    float: left;
+    background-color: white;
+    opacity: 0.75;
+    overflow: hidden;
+}
+
+.contentTwo {
+    color: black;
+    text-align: center;
+    width: 25%;
+    float: right;
+    margin-right: 50px;
+    background-color: white;
+    opacity: 0.75;
+}
